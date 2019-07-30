@@ -348,7 +348,7 @@ prettify:
   enable: true
   linenumber: true # We prefer to enable for avoiding some pretiffy's bugs.
   # Prettify Theme
-  theme: github-v2 # It will not load any theme if you leave it blank
+  theme: tomorrow-night-blue  # It will not load any theme if you leave it blank
   # You can only enable the Suka built in prettify theme here. Check the /source/lib/prettify/themes directories.
   # The theme name is the css file name without `.min.css`, as [theme-name].min.css
   #
