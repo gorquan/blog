@@ -28,7 +28,8 @@
     "login": "nuomici",
     "repo": "ge3lbi",
     "mdNameFormat": "title",
-    "postPath": "source/_posts/yuque"
+    "postPath": "source/_posts/yuque",
+    "token": "wVP0JhgCWZQjWnmp6dtmTFWnzkMmk0e9JFiUFXRH"
   },
   "scripts": {
     "sync": "yuque-hexo sync",

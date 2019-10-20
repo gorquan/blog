@@ -14,7 +14,6 @@ before_install:
 - cp .travis/ssh_config ~/.ssh/config
 - git config --global user.name 'gorquan'
 - git config --global user.email gorquanwu@gmail.com
-- YUQUE_TOKEN=wVP0JhgCWZQjWnmp6dtmTFWnzkMmk0e9JFiUFXRH
 install:
 - npm install hexo-cli -g
 - npm install
