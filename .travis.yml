@@ -19,6 +19,6 @@ install:
 - npm install
 script:
 - cross-env YUQUE_TOKEN=$yuque_token npm run deploy
-#cache:
-#  directories:
-#  - node_modules
+cache:
+  directories:
+  - node_modules
