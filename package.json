@@ -1,6 +1,6 @@
 {
   "name": "gorquan-blog",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": true,
   "hexo": {
     "version": "3.9.0"
@@ -21,7 +21,7 @@
     "json-stringify-safe": "^5.0.1",
     "node-prismjs": "^0.1.2",
     "qr-image": "^3.2.0",
-    "yuque-hexo": "^1.6.1"
+    "yuque-hexo": "^1.6.2"
   },
   "yuqueConfig": {
     "baseUrl": "https://www.yuque.com/api/v2",
