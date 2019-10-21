@@ -1,5 +1,5 @@
 ---
-title: blog Search
+title: Search
 date:
 layout: search
 ---
