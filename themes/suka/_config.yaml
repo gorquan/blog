@@ -118,7 +118,7 @@ sns_share:
 
 # Qrcode which will show in share menu, for redirect to other device
 qrcode:
-  index_share: true
+  index_share: false
   post_share: true
 
 
