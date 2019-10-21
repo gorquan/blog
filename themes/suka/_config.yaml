@@ -97,8 +97,8 @@ nav:
   share:
     use: true
   search:
-    use: false
-    link: /search/
+    use: true
+    link: /search
   pages:
     #About:
       #link: /about/
