@@ -411,7 +411,7 @@ vendors:
   # Personally I prefer the theme here: https://github.com/jmblog/color-themes-for-google-code-prettify
   prettify_theme: https://cdn.jsdelivr.net/npm/color-themes-for-google-code-prettify@2.0.4/dist/themes/{prettify-theme-name}.min.css
 
-fragment_cache: false
+fragment_cache: true
 # Theme Version
 #   localStorage cache version
 verison: 1.3.3
