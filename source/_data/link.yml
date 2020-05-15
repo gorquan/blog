@@ -1,0 +1,26 @@
+class:
+  class_name: 友情链接
+  link_list:
+    1:
+      name: CarrOt
+      link: https://www.hovcsryu.xyz
+      avatar: https://s1.ax1x.com/2020/05/15/Yse3kV.png
+      descr: 
+    2:
+      name: TYGX
+      link: https://tydaytygx.github.io/
+      avatar: https://s1.ax1x.com/2020/05/15/YseGfU.jpg
+      descr:  
+    3:
+      name: kirarasmile
+      link: https://smilecli.kirarasmile.cn
+      avatar: https://s1.ax1x.com/2020/05/15/Yse8YT.jpg
+      descr: 
+class2:  
+  class_name: 自助服务
+  link_list:
+    1:
+      name: 轮椅Readme
+      link: https://askme.kirarasmile.cn
+      avatar: https://s1.ax1x.com/2020/05/15/YselT0.png
+      descr: 涩图网
