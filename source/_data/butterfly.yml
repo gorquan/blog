@@ -98,23 +98,22 @@ mermaid:
 
 # Favicon
 # ---------------
-favicon: https://s1.ax1x.com/2020/05/15/YrRO6f.th.png
+favicon: https://gorquan-blogs-picture-1251930375.cos.ap-guangzhou.myqcloud.com/avatar.png
 
 # Post info settings
 # ---------------
 avatar:
-  img: https://s1.ax1x.com/2020/05/15/YrRO6f.png
+  img: https://gorquan-blogs-picture-1251930375.cos.ap-guangzhou.myqcloud.com/avatar.png
   effect: false # 頭像會一直轉圈
 
 # the banner image of index
 index_img: 
 
 # if the banner of page not setting,it will show the top_img
-default_top_img: https://s1.ax1x.com/2020/05/15/YrRXX8.png
+default_top_img: https://gorquan-blogs-picture-1251930375.cos.ap-guangzhou.myqcloud.com/background.jpg
 
 # the banner image of archive page
-archive_img: https://s1.ax1x.com/2020/05/15/YrRL1P.jpg
-
+archive_img: https://gorquan-blogs-picture-1251930375.cos.ap-guangzhou.myqcloud.com/archive.jpg
 # the banner image of tag page
 # tag page, look like https://xxxxxxxxx.com/tags/butterfly
 tag_img:
